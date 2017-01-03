@@ -11,4 +11,4 @@ http://www.elektronika.ba/865/ir-light-dimmer-v2/
 
 #Hack-a-Day Project Page
 Some additional info can be found on HaD project page:
-https://hackaday.io/project/19221-ir-light-dimmer-v2nosleep-1kb-challenge-edition
+https://hackaday.io/project/19221-ir-light-dimmer-v2-1kb-challenge-edition

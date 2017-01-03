@@ -7,7 +7,7 @@ http://www.elektronika.ba/865/ir-light-dimmer-v2/
 
 #Official PCB purchase link
 You can purchase PCBs for this device, check it out here:
-http://www.elektronika.ba/865/ir-light-dimmer-v2/
+http://www.elektronika.ba/866/ir-light-dimmer-v2-purchase/
 
 #Hack-a-Day Project Page
 Some additional info can be found on HaD project page:
